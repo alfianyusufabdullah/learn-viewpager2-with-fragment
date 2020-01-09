@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Learn ViewPager2</string>
+    <string name="text_button_page">Change Orientation</string>
 </resources>
